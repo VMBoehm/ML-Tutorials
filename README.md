@@ -4,8 +4,8 @@ Machine Learning Tutorials
 a collection of well commented examples of some standard machine learning techniques
 
 - classification (with fully connected and convolutional neural nets)
+- regression
 - data compression (with pca and a pretarined vae)
-- ...
 
 ## Requirements
 - no requirements if run on google colab (https://colab.research.google.com/).
